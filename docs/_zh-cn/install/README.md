@@ -1,7 +1,7 @@
 ---
 title:       "安装ioBroker"
 lastChanged: "13.09.2018"
-editLink:    "https://github.com/jimusio/ioBroker.docs/edit/master/docs/install/README.md"
+editLink:    "https://github.com/jimusio/ioBroker.docs/edit/master/docs/_zh-cn/install/README.md"
 ---
 
 # 安装 {docsify-ignore-all}

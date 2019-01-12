@@ -1,7 +1,7 @@
 ---
 title:       "可视化"
 lastChanged: "13.09.2018"
-editLink:    "https://github.com/jimusio/ioBroker.docs/edit/master/docs/viz/README.md"
+editLink:    "https://github.com/jimusio/ioBroker.docs/edit/master/docs/_zh-cn/viz/README.md"
 ---
 
 # 介绍 {docsify-ignore-all}

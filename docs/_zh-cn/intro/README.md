@@ -1,6 +1,10 @@
 ---
 lastChanged: "11.09.2018"
 ---
+---
+lastChanged: "11.09.2018"
+editLink:    "https://github.com/jimusio/ioBroker.docs/edit/master/docs/_zh-cn/intro/README.md"
+---
 
 # ioBroker {docsify-ignore-all}
 

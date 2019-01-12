@@ -1,22 +1,22 @@
 ![Logo](media/ioBroker_logo_s.png)
 
-# ioBroker.docs - the ioBroker documentation project
+# ioBroker.docs - ioBroker中文文档项目
 
-Try prototype at [https://iobroker.github.io/ioBroker.docs](https://iobroker.github.io/ioBroker.docs)
+请访问[此链接](https://jimusio.github.io/ioBroker.docs/#/_zh-cn/)阅读ioBroker中文文档
 
-This is the place where a new documention for ioBroker is born.  
-Beware: Work in progress!
+这里是ioBroker中文文档的项目源码  
+请注意: 此项目还在开发过程中
 
-| Folder | Description |
+| 文件夹 | 描述 |
 |---|---|
-|**archive**|Source of existing information|
-|**docsify**|Documentation Prototyping System info for Docsify|
-|**docs**|Docsify root to be able to use it as github pages docroot|
-|**media**|Official files and images|
+|**archive**|现有资料来源|
+|**docsify**|Docsify需要的信息|
+|**docs**|Docsify文档内容的根文件夹. 是github的首页|
+|**media**|官方图片和文件|
 
 ## Changelog
 
-Read the change log [here](CHANGELOG.md).
+修改历史请查阅[此链接](CHANGELOG.md).
 
 
 ## License

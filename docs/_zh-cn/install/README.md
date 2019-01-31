@@ -1,6 +1,6 @@
 ---
 title:       "安装ioBroker"
-lastChanged: "2019/01/29"
+lastChanged: "2019/01/31"
 ---
 
 # 安装 {docsify-ignore-all}
@@ -11,11 +11,12 @@ lastChanged: "2019/01/29"
    请注意[ioBroker风格指南][]，
    这样可以更容易地合并您的提交。
 
-@@@   
-关于本章节：   
+@@@  
+关于本章节：  
 本章节将介绍如何正确的, 最优的安装ioBroker.
 
-建议主题：   
+建议主题：  
+
 * 硬件平台推荐
 * 系统参数要求
 * 设置ioBroker
@@ -25,6 +26,5 @@ lastChanged: "2019/01/29"
 * 如果不起作用，请参阅本章末尾的帮助
 
 @@@
-
 
 [ioBroker风格指南]: _zh-cn/community/styleguidedoc

@@ -6,3 +6,7 @@
 
 * 可视化
   * [简介](_zh-cn/viz/)
+
+* 项目支持
+  * 完善文档
+    * [文档格式要求](_zh-cn/community/styleguidedoc)

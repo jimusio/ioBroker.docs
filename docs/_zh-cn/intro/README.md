@@ -13,7 +13,7 @@ lastChanged: "2019/01/29"
 ?> ***这是一个占位符***.
    <br><br>
    请您帮助ioBroker完善这篇文章。  
-   请注意[ioBroker风格指南](community/styleguidedoc), 
+   请注意[ioBroker风格指南][]，
    这样可以更容易地合并您的提交。
 
 ioBroker是智能家居，楼宇自动化和主动辅助生活的自动化任务的中央服务器。
@@ -57,3 +57,4 @@ ioBroker提供的图形界面有助于简化设备的操作和监控。
 [逻辑]: logic/README
 [开发者区域]: dev/README
 [帮助我们]: community/doc
+[ioBroker风格指南]: _zh-cn/community/styleguidedoc

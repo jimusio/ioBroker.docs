@@ -8,7 +8,7 @@ lastChanged: "2019/01/29"
 ?> ***这是一个占位符***.
    <br><br>
    请您帮助ioBroker完善这篇文章。  
-   请注意[ioBroker风格指南](community/styleguidedoc), 
+   请注意[ioBroker风格指南][]，
    这样可以更容易地合并您的提交。
 
 @@@   
@@ -25,3 +25,6 @@ lastChanged: "2019/01/29"
 * 如果不起作用，请参阅本章末尾的帮助
 
 @@@
+
+
+[ioBroker风格指南]: _zh-cn/community/styleguidedoc

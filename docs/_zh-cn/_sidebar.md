@@ -4,6 +4,8 @@
 * 安装说明
   * [简介](_zh-cn/install/)
   * [安装需求](_zh-cn/install/requirements)
+  * 手动安装
+    * [安装Node.js](_zh-cn/install/nodejs)
 
 * 可视化
   * [简介](_zh-cn/viz/)

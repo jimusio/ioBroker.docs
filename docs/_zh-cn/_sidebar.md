@@ -11,6 +11,9 @@
       * [在Linux发行版安装ioBroker](_zh-cn/install/linux)
       * [在MACOS安装ioBroker](_zh-cn/install/macos)
 
+* 基本概念
+  * [简介](_zh-cn/basics/README)
+
 * 可视化
   * [简介](_zh-cn/viz/)
 

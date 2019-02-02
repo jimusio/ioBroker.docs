@@ -8,6 +8,7 @@
     * [安装Node.js](_zh-cn/install/nodejs)
     * 操作系统
       * [在Windows安装ioBroker](_zh-cn/install/windows)
+      * [在Linux发行版安装ioBroker](_zh-cn/install/linux)
 
 * 可视化
   * [简介](_zh-cn/viz/)

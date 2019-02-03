@@ -21,3 +21,5 @@
 * 项目支持
   * 完善文档
     * [文档格式要求](_zh-cn/community/styleguidedoc)
+  * 贡献代码
+    * [开发环境搭建](_zh-cn/dev/ide)

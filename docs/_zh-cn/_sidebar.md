@@ -13,6 +13,7 @@
 
 * 基本概念
   * [简介](_zh-cn/basics/README)
+  * [系统设计](_zh-cn/basics/architecture)
 
 * 可视化
   * [简介](_zh-cn/viz/)

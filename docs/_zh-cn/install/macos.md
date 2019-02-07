@@ -32,7 +32,7 @@ npm -v
 请打开`终端`并执行如下自动安装脚本。
 
 ~~~bash
-`curl -sL https://raw.githubusercontent.com/ioBroker/ioBroker/stable-installer/installer.sh | bash -`
+curl -sL https://raw.githubusercontent.com/ioBroker/ioBroker/stable-installer/installer.sh | bash -
 ~~~
 
 自动脚本安装过程大致可以分为4步，用户可以清楚的在终端中看到每一步的执行情况
